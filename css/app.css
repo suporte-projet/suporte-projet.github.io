@@ -16369,7 +16369,7 @@ body.login-content:before {
   overflow: hidden;
   /*
     @media @min-992 {
-	    width: ~"calc(100% + 1px)";
+      width: ~"calc(100% + 1px)";
     }
     */
 }
